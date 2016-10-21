@@ -6,3 +6,7 @@ OpenCV (Open Source Computer Vision) is a library of programming functions mainl
 
 # This docker image includes:
 Ubuntu 14.04, OpenCV 2.4.9, Nano, Wget, Unzip and Python 2.7
+
+# Installation (Docker already installed):
+- Open the terminal
+- Run this command: docker pull mehdimerai/opencv
